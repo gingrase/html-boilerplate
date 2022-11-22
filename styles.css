@@ -41,7 +41,7 @@ body {
 
 
 .form-row {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
@@ -155,7 +155,7 @@ body {
 
     .form-row {
       flex-direction: row;
-      align-items: flex-start; /* To avoid stretching */
+      align-items: flex-start;
       margin-bottom: 20px;
     }
 
